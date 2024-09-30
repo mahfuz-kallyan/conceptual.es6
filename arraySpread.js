@@ -8,10 +8,12 @@
 // arr2.push(66);
 // console.log(arr1);
 
+// destructuring
+
 // const [x, y, ...z] = arr1;
 // console.log(x, y, z);
 
-const names = ['kasem', 'kuddus', 'mokbul', 'hotlar', 'bhush'];
+const names = ['kasem', 'kuddus', 'mokbul', 'hitlar', 'bhush'];
 // const name2 = names[1];
 // const name3 = names[2];
 // console.log(name2);
